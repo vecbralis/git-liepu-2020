@@ -37,3 +37,15 @@ Ja nestrādā pull tad izmanotojam pirmajā reizē.
 Lai izveidotu jaunu branch
 
 `git checkout -b martins`
+
+Izveidosim jaunu failu un pievienosim
+
+`git add .`
+
+Rakstam komentāru
+
+`git commit -m 'Jauns fails izveidots'`
+
+git push uz sava branch
+
+`git push origin BRANCH_NOSAUKUMS`
