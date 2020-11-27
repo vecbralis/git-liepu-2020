@@ -33,3 +33,19 @@ un tad vēlreiz mēģinam
 Ja nestrādā pull tad izmanotojam pirmajā reizē.
 
 `git pull origin master --allow-unrelated-histories`
+
+Lai izveidotu jaunu branch
+
+`git checkout -b martins`
+
+Izveidosim jaunu failu un pievienosim
+
+`git add .`
+
+Rakstam komentāru
+
+`git commit -m 'Jauns fails izveidots'`
+
+git push uz sava branch
+
+`git push origin BRANCH_NOSAUKUMS`
