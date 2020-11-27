@@ -33,3 +33,7 @@ un tad vēlreiz mēģinam
 Ja nestrādā pull tad izmanotojam pirmajā reizē.
 
 `git pull origin master --allow-unrelated-histories`
+
+Lai izveidotu jaunu branch
+
+`git checkout -b martins`
