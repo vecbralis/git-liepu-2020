@@ -29,3 +29,7 @@ Vissdrīzākais izmeta kļūdu, ka vajag pull.
 un tad vēlreiz mēģinam
 
 `git push origin master`
+
+Ja nestrādā pull tad izmanotojam pirmajā reizē.
+
+`git pull origin master --allow-unrelated-histories`
